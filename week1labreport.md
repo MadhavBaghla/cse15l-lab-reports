@@ -11,7 +11,7 @@ INSTALLING VISUAL STUDIO CODE:
  
  4.Open it and run it on your computer.
  
-![](https://user-images.githubusercontent.com/122570270/212792022-85354c22-f32b-4203-bc90-392a13b9551d.png)
+![Screenshot1](https://user-images.githubusercontent.com/122570270/212792022-85354c22-f32b-4203-bc90-392a13b9551d.png)
 
 
 REMOTELY CONNECTING:
@@ -22,7 +22,7 @@ REMOTELY CONNECTING:
 
 3.Enter your password and you are connected to the computer in the CSE basement.
 
-![](https://user-images.githubusercontent.com/122570270/212792937-eb86caa0-c107-4c09-9bcd-0937d1f62508.png)
+![Screenshot3](https://user-images.githubusercontent.com/122570270/212792937-eb86caa0-c107-4c09-9bcd-0937d1f62508.png)
 
 
 RUNNING SOME COMMANDS:
@@ -31,7 +31,7 @@ RUNNING SOME COMMANDS:
 
 2. In the screenshot below I have typed ls-lat which lists the contents of the files in the directory and ls-a which lists all files including hidden files.
 
-![Screenshot 2023-01-12 124630](https://user-images.githubusercontent.com/122570270/212793652-dc7ffddb-3a28-4cca-8a1b-cf31e478d1b7.png)
+![Screenshot3](https://user-images.githubusercontent.com/122570270/212793652-dc7ffddb-3a28-4cca-8a1b-cf31e478d1b7.png)
 
 
 
