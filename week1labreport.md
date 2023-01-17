@@ -16,12 +16,22 @@ INSTALLING VISUAL STUDIO CODE:
 
 REMOTELY CONNECTING:
 
- 1. Open terminal in VS code and type ```ssh cs15lwi23zz@ieng6.ucsd.edu```
+1.Open terminal in VS code and type ```ssh cs15lwi23zz@ieng6.ucsd.edu```
 
- 2.You will get an authentication message for which you have to respond with yes.
+2.You will get an authentication message for which you have to respond with yes.
 
- 3. Enter your password and you are connected to the computer in the CSE basement.
+3.Enter your password and you are connected to the computer in the CSE basement.
 
-![Screenshot 2023-01-12 131315](https://user-images.githubusercontent.com/122570270/212792937-eb86caa0-c107-4c09-9bcd-0937d1f62508.png)
+![](https://user-images.githubusercontent.com/122570270/212792937-eb86caa0-c107-4c09-9bcd-0937d1f62508.png)
+
+
+RUNNING SOME COMMANDS:
+
+1. Once connected to the computer, you can type various commands in the terminal.
+
+2. In the screenshot below I have typed ls-lat which lists the contents of the files in the directory and ls-a which lists all files including hidden files.
+
+![Screenshot 2023-01-12 124630](https://user-images.githubusercontent.com/122570270/212793652-dc7ffddb-3a28-4cca-8a1b-cf31e478d1b7.png)
+
 
 
