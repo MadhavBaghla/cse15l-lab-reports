@@ -11,8 +11,7 @@ INSTALLING VISUAL STUDIO CODE:
  
  4.Open it and run it on your computer.
  
- ![] https://github.com/MadhavBaghla/cse15l-lab-reports/blob/53cc2ef70f74901226bea4fe216f4697e464c86d/Screenshot%202023-01-12%20121842.png
- 
+ ![](Screenshot 2023-01-12 121842.png)
  
 
 
