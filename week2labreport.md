@@ -25,16 +25,16 @@ OUTPUT 2
 ## Part 2
 
 
-1. Failure inducing inputs
+1.Failure inducing inputs
 
 
 <img width="629" alt="Screenshot 2023-01-30 at 11 06 47 PM" src="https://user-images.githubusercontent.com/122570270/215690468-3faf9231-2b1f-4d2c-9123-b78d89f02051.png">
 
-2. Symptoms
+2.Symptoms
 
 <img width="624" alt="Screenshot 2023-01-30 at 11 07 27 PM" src="https://user-images.githubusercontent.com/122570270/215690480-90146d08-8e46-4af5-bf1a-109886d8b20a.png">
  
- 3. Fixing the code
+ 3.Fixing the code
   
  <img width="367" alt="Screenshot 2023-01-30 at 11 18 46 PM" src="https://user-images.githubusercontent.com/122570270/215692807-0ddddbb7-c8fd-4b5b-ab91-6c4e232b67f8.png">
 
