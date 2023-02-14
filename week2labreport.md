@@ -41,6 +41,7 @@ OUTPUT 2
 
 ## Part 3
 
-1.I learnt how to run a web server in lab. 
+1.I learnt how to run a web server in lab.
+
 2.I also learnt what a symptom is and how we can write tests to check the correctness of a program.
 
