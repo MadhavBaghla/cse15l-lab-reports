@@ -11,7 +11,15 @@ Type ```git clone <repository link>``` and ```<enter>```
 <img width="677" alt="Screenshot 2023-02-27 at 8 12 39 AM" src="https://user-images.githubusercontent.com/122570270/221735421-1ee6f3e9-7b28-4d9f-99fe-54d78c9f7318.png">
 
 3.)Run the tests, demonstrating that they fail:
-```<up><up><up>```... till you reach the junit commands
+
+Ctrl+V-->javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+
+```<enter>```
+
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+
+```<enter>```
+
 
 <img width="982" alt="Screenshot 2023-02-27 at 8 21 41 AM" src="https://user-images.githubusercontent.com/122570270/221735710-751139ff-1a18-4043-94e5-7d489927d125.png">
 
@@ -19,14 +27,31 @@ Type ```git clone <repository link>``` and ```<enter>```
 
 Type git nano List ```<tab>``` and Edit your code in nano by using ```<down>``` to reach the part of the code which had errors.
 Keys entered:```<down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right>``` 
-and then type in the modified code
+and then type in the modified code.
+
+Ctrl+O to save
+
+Ctrl+X to exit
 
 <img width="982" alt="Screenshot 2023-02-27 at 10 39 28 AM" src="https://user-images.githubusercontent.com/122570270/221736034-1db3c8b4-eef2-4fb0-a130-1b502b7c0da8.png">
 
 <img width="1004" alt="Screenshot 2023-02-27 at 10 39 52 AM" src="https://user-images.githubusercontent.com/122570270/221736193-66e6bf49-637e-4b02-855c-deac5a5cd5fd.png">
 
 5.)Run the tests, demonstrating that they now succeed
-After saving the changes and exiting nano, ```<up><up><up>``` to run the Junit tests again
+
+After saving the changes and exiting nano, ```<up><up><up>``` to run the Junit tests again 
+ 
+OR
+
+Ctrl+V-->javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+
+```<enter>```
+
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+
+```<enter>```
+
+
 
 <img width="982" alt="Screenshot 2023-02-27 at 10 39 28 AM" src="https://user-images.githubusercontent.com/122570270/221737334-3e911c70-261a-4760-979f-6968d93bf01e.png">
 
